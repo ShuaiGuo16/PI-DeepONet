@@ -1,6 +1,8 @@
 ## Physics-informed DeepONet
 
-This notebook shows how to implement a physics-informed DeepONet from scratch.
+- case_study.ipynb: this notebook shows how to implement a physics-informed DeepONet from scratch. 
+- case-study-inverse-parameter.ipynb: this notebook shows how to use physics-informed DeepONet to estimate unknown ODE parameters
+- case-study-inverse-input-profile.ipynb: this notebook shows how to use physics-informed DeepONet to calibrate unknown input functions
 
 ## Companion blog
 
